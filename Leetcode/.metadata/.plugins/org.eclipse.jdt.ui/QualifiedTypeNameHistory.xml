@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="tree.root_equals_sum_of_children.Solution"/>
+    <fullyQualifiedTypeName name="tree.node.BinaryTreeNode"/>
+    <fullyQualifiedTypeName name="array.two_sum.Solution1"/>
+    <fullyQualifiedTypeName name="array.two_sum.Solution2"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="array.two_sum.Solution3"/>
+    <fullyQualifiedTypeName name="java.awt.font.MultipleMaster"/>
+    <fullyQualifiedTypeName name="array.two_dim.richest_customer_wealth.Solution1"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.management.MBeanServer"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="array.fizzbuzz.Solution1"/>
+    <fullyQualifiedTypeName name="math.reduce_to_zero.Solution1"/>
+    <fullyQualifiedTypeName name="linkedList.node.SinglyLinkedListNode"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="linkedList.node.ListNode"/>
+</qualifiedTypeNameHistroy>

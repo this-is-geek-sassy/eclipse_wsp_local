@@ -1,0 +1,9 @@
+package dailyChallenge.powerOfTwo;
+
+public class Solution1 {
+	
+	public boolean isPowerOfTwo (int n) {
+		
+	}
+
+}

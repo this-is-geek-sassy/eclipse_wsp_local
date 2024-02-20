@@ -1,0 +1,18 @@
+package main;
+
+import linkedList.middle_of_list.*;
+import linkedList.node.*;
+
+
+public class Runner {
+
+	public static void main(String[] args) {
+		Solution1 solution = new Solution1();
+
+		ListNode node1 = new ListNode(5);
+		ListNode node2 = new ListNode(4, node1);
+		ListNode head = node2;
+		System.out.println(solution.middleNode(head).val);
+	}
+
+}

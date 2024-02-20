@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;root_equals_sum_of_children&apos; to &apos;tree.root_equals_sum_of_children&apos;&#x0D;&#x0A;- Original project: &apos;leetcode_1&apos;&#x0D;&#x0A;- Original element: &apos;leetcode_1/src/root_equals_sum_of_children&apos;&#x0D;&#x0A;- Renamed element: &apos;leetcode_1/src/tree.root_equals_sum_of_children&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;root_equals_sum_of_children&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;root_equals_sum_of_children" name="tree.root_equals_sum_of_children" qualified="false" references="true" stamp="1692715751922" textual="false" version="1.0"/>
+</session>

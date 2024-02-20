@@ -1,0 +1,5 @@
+package linkedList.node;
+
+public class SinglyLinkedListNode {
+
+}

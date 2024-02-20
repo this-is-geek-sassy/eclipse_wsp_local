@@ -1,0 +1,14 @@
+package main;
+
+import math.reduce_to_zero.Solution1;
+
+
+public class Runner {
+
+	public static void main(String[] args) {
+		Solution1 solution = new Solution1();
+
+		System.out.println(solution.numberOfSteps(123));
+	}
+
+}

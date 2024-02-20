@@ -1,0 +1,8 @@
+package linkedList.node;
+
+public class ListNode {
+
+	int val;
+	SinglyLinkedListNode next;
+	Si
+}
