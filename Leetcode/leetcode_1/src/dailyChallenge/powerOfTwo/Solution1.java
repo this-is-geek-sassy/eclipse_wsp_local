@@ -16,7 +16,7 @@ public class Solution1 {
 		
 		if (Math.pow(2, closestPowerOfTwoFloor) == n)
 			return true;
-		return false;
+		return false; 
 		
 //		if (closestPowerOfTwo == closestPowerOfTwoFloor)
 //			return true;
