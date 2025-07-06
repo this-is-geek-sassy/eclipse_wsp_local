@@ -1,19 +1,14 @@
 package main;
 
-import dailyChallenge.powerOfTwo.*;
+import math.palindrome_number.*;
 
 
 public class Runner {
 
 	public static void main(String[] args) {
-		Solution1 solution1 = new Solution1();
+		Solution2 solution2 = new Solution2();
 		
-		// System.out.println(solution1.isPowerOfTwo(1));
-		System.out.println(solution1.isPowerOfTwo(0));
-//		// System.out.println(solution1.isPowerOfTwo(16));
-//		// System.out.println(solution1.isPowerOfTwo(3));
-//		System.out.println(solution1.isPowerOfTwo(536870912));
-//		System.out.println(solution1.isPowerOfTwo(2097151));
+		System.out.println(solution2.isPalindrome(-121));		
 	}
 
 }

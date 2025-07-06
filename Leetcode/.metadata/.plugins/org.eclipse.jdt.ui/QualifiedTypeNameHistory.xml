@@ -20,4 +20,6 @@
     <fullyQualifiedTypeName name="linkedList.node.SinglyLinkedListNode"/>
     <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
     <fullyQualifiedTypeName name="linkedList.node.ListNode"/>
+    <fullyQualifiedTypeName name="dailyChallenge.powerOfTwo.Solution1"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
 </qualifiedTypeNameHistroy>
