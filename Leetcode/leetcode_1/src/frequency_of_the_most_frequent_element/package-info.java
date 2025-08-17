@@ -1,0 +1,1 @@
+package frequency_of_the_most_frequent_element;
